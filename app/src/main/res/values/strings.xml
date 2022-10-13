@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">clase07-NB</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="Home_fragment">Fragment Home</string>
+    <string name="Notificacion_fragment">Fragment Notificacion</string>
+    <string name="Settings_fragment">Fragment Settings</string>
+</resources>
